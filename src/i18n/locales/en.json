@@ -1,0 +1,60 @@
+{
+    "app": {
+        "name": "MediTrack",
+        "tagline": "Simple medication management for your family"
+    },
+    "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "forgotPassword": "Forgot Password",
+        "resetPassword": "Reset Password",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "mobile": "Mobile Phone",
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "resetPasswordLink": "Send Reset Password Link",
+        "alreadyHaveAccount": "Already have an account? Sign in",
+        "dontHaveAccount": "Don't have an account? Sign up",
+        "or": "Or"
+    },
+    "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "passwordLength": "Password must be at least 6 characters long",
+        "passwordMatch": "Passwords do not match"
+    },
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "remove": "Remove",
+        "back": "Back",
+        "next": "Next",
+        "confirm": "Confirm",
+        "loading": "Loading..."
+    },
+    "errors": {
+        "generic": "An error occurred. Please try again.",
+        "auth": {
+            "invalidEmail": "Invalid email address",
+            "wrongPassword": "Incorrect password",
+            "userNotFound": "User not found",
+            "emailInUse": "Email already in use",
+            "weakPassword": "Password is too weak"
+        }
+    },
+    "dashboard": {
+        "welcome": "Welcome, {{name}}",
+        "families": "Families",
+        "medications": "Medications",
+        "members": "Family Members",
+        "reminders": "Reminders"
+    }
+}

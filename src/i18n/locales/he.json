@@ -1,0 +1,60 @@
+{
+    "app": {
+        "name": "תרופתי",
+        "tagline": "ניהול תרופות קל ופשוט למשפחה שלך"
+    },
+    "auth": {
+        "login": "התחברות",
+        "logout": "התנתקות",
+        "register": "הרשמה",
+        "forgotPassword": "שכחתי סיסמה",
+        "resetPassword": "איפוס סיסמה",
+        "email": "דואר אלקטרוני",
+        "password": "סיסמה",
+        "confirmPassword": "אימות סיסמה",
+        "firstName": "שם פרטי",
+        "lastName": "שם משפחה",
+        "mobile": "טלפון נייד",
+        "signIn": "התחבר",
+        "signUp": "הירשם",
+        "resetPasswordLink": "שלח קישור לאיפוס סיסמה",
+        "alreadyHaveAccount": "כבר יש לך חשבון? התחבר",
+        "dontHaveAccount": "אין לך חשבון? הירשם",
+        "or": "או"
+    },
+    "validation": {
+        "required": "שדה חובה",
+        "email": "נא להזין כתובת דואר אלקטרוני תקינה",
+        "passwordLength": "הסיסמה חייבת להיות לפחות 6 תווים",
+        "passwordMatch": "הסיסמאות אינן תואמות"
+    },
+    "common": {
+        "save": "שמור",
+        "cancel": "ביטול",
+        "delete": "מחיקה",
+        "edit": "עריכה",
+        "add": "הוסף",
+        "remove": "הסר",
+        "back": "חזור",
+        "next": "הבא",
+        "confirm": "אישור",
+        "loading": "טוען..."
+    },
+    "errors": {
+        "generic": "אירעה שגיאה. נא לנסות שוב.",
+        "auth": {
+            "invalidEmail": "כתובת דואר אלקטרוני לא תקינה",
+            "wrongPassword": "סיסמה שגויה",
+            "userNotFound": "משתמש לא קיים",
+            "emailInUse": "כתובת דואר אלקטרוני כבר בשימוש",
+            "weakPassword": "הסיסמה חלשה מדי"
+        }
+    },
+    "dashboard": {
+        "welcome": "ברוך הבא, {{name}}",
+        "families": "משפחות",
+        "medications": "תרופות",
+        "members": "בני משפחה",
+        "reminders": "תזכורות"
+    }
+}
